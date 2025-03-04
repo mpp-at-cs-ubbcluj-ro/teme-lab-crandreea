@@ -1,0 +1,5 @@
+/tema1/StartGradle/build/
+.github
+.idea
+.DS_store
+.gradle
